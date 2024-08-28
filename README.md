@@ -60,7 +60,7 @@ ________________________________________________________
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/fenixco/challenge001-One7-2024.git
+git clone [https://github.com/fenixco/challenge001-One7-2024.git](https://github.com/RickL1982/RickL1982.github.io.git)
 ```
 
 2. Abre el archivo `index.html` en tu navegador preferido.
